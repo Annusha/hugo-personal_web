@@ -24,7 +24,7 @@ publication: In RoboCup 2019, Springer
 abstract: Soccer ball detection is identified as one of the critical challenges in the RoboCup competition. It requires an efficient vision system capable of handling the task of detection with high precision and recalland providing robust and low inference time. In this work, we present a novel convolutional neural network (CNN) approach to detect the soccerball  in  an  image  sequence.  In  contrast  to  the  existing  methods  where only the current frame or an image is used for the detection, we make use of the history of frames. Using history allows efficiently track the ball in situations where it disappears or gets partially occluded in some of the frames. Our approach exploits spatio-temporal correlation and detects the ball based on the trajectory of its movements. We present our results with three convolutional methods, namely temporal convolutional networks (TCN), ConvLSTM, and ConvGRU. We first solve the detection  task  for  an  image  using  fully  convolutional  encoder-decoder architecture,  and  later,  we  use  it  as  an  input  to  our  temporal  models and jointly learn the detection task in sequences of images. We evaluate all our experiments on a novel dataset prepared as a part of this work. Furthermore, we present empirical results to support the effectiveness of using the history of the ball in challenging scenarios.
 
 # Summary. An optional shortened abstract.
-summary: RoboCup 2019, Springer
+summary: RoboCup 2019, Springer (Oral)
 tags:
 featured: true
 # Exploiting traking history for improving the detection of the ball for the robotics competition
