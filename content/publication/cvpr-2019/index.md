@@ -25,7 +25,7 @@ abstract: The task of temporally detecting and segmenting actions in untrimmed v
 
 # Summary. An optional shortened abstract.
 summary: CVPR 2019
-# Unsupervised temporal segmentation of instraction videos
+# Unsupervised temporal segmentation of instruction videos
 tags:
 featured: false
 

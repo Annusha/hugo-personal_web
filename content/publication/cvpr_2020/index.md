@@ -24,18 +24,18 @@ abstract: Interactions between people are often governed by their relationships.
 
 # Summary. An optional shortened abstract.
 summary: CVPR 2020 (Oral)
-# Unsupervised temporal segmentation of instraction videos
+# Unsupervised temporal segmentation of instruction videos
 tags:
 featured: false
 
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: '#'
+url_pdf: 'https://arxiv.org/pdf/2003.13158.pdf'
 url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+url_project: 'https://annusha.github.io/LIReC/'
 # url_slides: ''
 # url_source: '#'
 # url_video: '#'
