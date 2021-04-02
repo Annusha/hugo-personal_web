@@ -22,8 +22,10 @@ bio: My research interests include video understanding from different aspects.
 
 interests:
 - Video Understanding
-- Zero- Few-Shot Learning
+- Few-Shot Learning
+- Incremental Learning
 - Multi-modal Learning
+- Representation Learning
 
 education:
   courses:
