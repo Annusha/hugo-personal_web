@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ivan Laptev | Anna Kukleva</title>
+    <link>https://annusha.github.io/authors/ivan-laptev/</link>
+      <atom:link href="https://annusha.github.io/authors/ivan-laptev/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ivan Laptev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://annusha.github.io/img/akukleva.jpg</url>
+      <title>Ivan Laptev</title>
+      <link>https://annusha.github.io/authors/ivan-laptev/</link>
+    </image>
+    
+    <item>
+      <title>Learning Interactions and Relationships between Movie Characters</title>
+      <link>https://annusha.github.io/publication/cvpr_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://annusha.github.io/publication/cvpr_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

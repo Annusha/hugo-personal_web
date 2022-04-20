@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Kukleva* | Anna Kukleva</title>
+    <link>https://annusha.github.io/authors/anna-kukleva/</link>
+      <atom:link href="https://annusha.github.io/authors/anna-kukleva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Kukleva*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://annusha.github.io/img/akukleva.jpg</url>
+      <title>Anna Kukleva*</title>
+      <link>https://annusha.github.io/authors/anna-kukleva/</link>
+    </image>
+    
+    <item>
+      <title>Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration Without Forgetting</title>
+      <link>https://annusha.github.io/publication/iccv-2021/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://annusha.github.io/publication/iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Interactions and Relationships between Movie Characters</title>
+      <link>https://annusha.github.io/publication/cvpr_2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://annusha.github.io/publication/cvpr_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking</title>
+      <link>https://annusha.github.io/publication/robotics/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://annusha.github.io/publication/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised learning of action classes with continuous temporal embedding</title>
+      <link>https://annusha.github.io/publication/cvpr-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://annusha.github.io/publication/cvpr-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
