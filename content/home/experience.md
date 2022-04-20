@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -25,6 +25,15 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = "Topic: video understanding, few-shot learning. Supervised by Bernt Schiele."
+
+[[experience]]
+  title = "Research Intern"
+  company = "Meta (Facebook)"
+  company_url = ""
+  location = "remote"
+  date_start = "2021-09-01"
+  date_end = "2019-12-15"
+  description = "Project: Single Object Tracking. Supervised by Heng Wang, Du Tran."
 
 [[experience]]
   title = "Research Intern"

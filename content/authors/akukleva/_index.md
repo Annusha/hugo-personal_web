@@ -21,11 +21,10 @@ organizations:
 bio: My research interests include video understanding from different aspects.
 
 interests:
-- Video Understanding
-- Few-Shot Learning
-- Incremental Learning
+- Learning with Limited Data (Few-Shot, Incremental, Semi-Supervised)
 - Multi-modal Learning
 - Representation Learning
+- Video Undesrtanding
 
 education:
   courses:
@@ -54,7 +53,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/cv2.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "akukleva@mpi-inf.mpg.de"

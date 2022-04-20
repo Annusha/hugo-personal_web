@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Activities"
+title = "Talks"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -67,13 +67,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-- Coorganizing the [WiCV workshop](https://sites.google.com/view/wicvworkshop-eccv2020/home) in conjunction with ECCV 2020 in Glasgow, UK
-
+- 01/2022: Talk at [Compuer Vision Talks](https://www.youtube.com/watch?v=i6ZbnnKIACI), Virtual
+- 12/2020: Talk at [6th Christmas Colloquium on Computer Vision 2020](https://www.youtube.com/watch?v=TixJu8p9QZQ), Samsung AI Center Moscow, Virtual
+- 08/2020: Talk at [DLCV Practioner’s Evening](https://www.notion.so/dlcv/Welcome-to-the-Deep-Learning-Computer-Vision-Practitioners-community-1acb5d6d9e6f461f84f6f0d88e90d608), Virtual
 - 01/2020: Talk at [Abhinav Gupta's](http://www.cs.cmu.edu/~abhinavg/) group at CMU in Pittsburgh, USA
-
 - 11/2019: Talk at [WILLOW-ENPC-Berkeley Workshop on Vision and Robotics](https://www.di.ens.fr/willow/events/workshop26nov2019/) in Paris, France
-
 - 09/2019: Poster at [BMVA symposium on Video Understanding](http://people.cs.bris.ac.uk/~damen/bmva_symposium_2019/) in London, UK
-
 - 06/2019: Poster at [WiCV workshop](https://wicvworkshop.github.io/CVPR2019/index.html) in conjunction with CVPR 2019 in Long Beach, USA
