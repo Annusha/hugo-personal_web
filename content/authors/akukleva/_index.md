@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student at [Computer Vision and Machine Learning department](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) supervised by [Prof. Bernt Shiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/). My research interests focus on video understanding including unsupervised and semi-supervised learing of efficient representations using multiple modalities.
+I am a PhD student at [Computer Vision and Machine Learning department](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/) at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home/) supervised by [Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele/). My research interests focus on video understanding including unsupervised and semi-supervised learing of efficient representations using multiple modalities.
 
 Previously, I spent half a year at [WILLOW team](https://www.di.ens.fr/willow/) in Inria Paris working on my master thesis on multi-modal understanding of social human behaviour from movies under the supervision of [Makarand Tapaswi](http://www.cs.toronto.edu/~makarand/) and [Ivan Laptev](https://www.di.ens.fr/~laptev/).
 During my master study at Uni Bonn, I was working as a research assistant on unsupervised video segmentation project at the Computer Vision Group under the supervision of [Hilde Kuehne](https://hildekuehne.github.io/) and [Prof. Jürgen Gall](http://pages.iai.uni-bonn.de/gall_juergen/). 
