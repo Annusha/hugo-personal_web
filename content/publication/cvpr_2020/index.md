@@ -1,7 +1,7 @@
  ---
 title: "Learning Interactions and Relationships between Movie Characters"
 authors:
-- Anna Kukleva
+- "**Anna Kukleva**"
 - Makarand Tapaswi
 - Ivan Laptev
 date: "2020-06-01T00:00:00Z"

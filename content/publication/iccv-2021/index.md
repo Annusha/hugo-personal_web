@@ -1,7 +1,7 @@
  ---
 title: "Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration Without Forgetting"
 authors:
-- Anna Kukleva
+- "**Anna Kukleva**"
 - Hilde Kuehne
 - Bernt Schiele
 date: "2021-10-01T00:00:00Z"

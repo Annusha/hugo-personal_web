@@ -1,7 +1,7 @@
  ---
 title: "Utilizing Temporal Information in Deep Convolutional Network for Efficient Soccer Ball Detection and Tracking"
 authors:
-- Anna Kukleva*
+- "**Anna Kukleva***"
 - Mohammad Asif Khan*
 - Hafez Farazi
 - Sven Behnke

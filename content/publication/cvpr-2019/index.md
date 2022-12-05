@@ -1,7 +1,7 @@
  ---
 title: "Unsupervised learning of action classes with continuous temporal embedding"
 authors:
-- Anna Kukleva*
+- "**Anna Kukleva***"
 - Hilde Kuehne*
 - Fadime Sener
 - Jürgen Gall

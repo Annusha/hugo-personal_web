@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "remote"
   date_start = "2021-09-01"
-  date_end = "2019-12-15"
+  date_end = "2021-12-15"
   description = "Project: Single Object Tracking. Supervised by Heng Wang, Du Tran."
 
 [[experience]]
