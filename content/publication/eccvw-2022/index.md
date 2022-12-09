@@ -33,9 +33,9 @@ links:
 #- name: Custom Link
 #  url: http://example.org
 url_pdf: 'https://arxiv.org/pdf/2209.11870.pdf'
-# url_code: 'https://github.com/Annusha/LCwoF'
+url_code: 'https://github.com/dukaenea/unintentional_actions'
 # url_poster: '#'
-# url_project: 'https://annusha.github.io/LCwF/'
+url_project: 'https://dukaenea.github.io/ssl_uar/'
 # url_slides: ''
 # url_source: 'https://sslwin.org/#intro'
 # url_video: '#'
