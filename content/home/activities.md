@@ -68,7 +68,9 @@ subtitle = "Activities"
  css_class = ""
 +++
 
+- Area Chair: WACV24 
+- Reviewer: CVPR21-23, ICCV21-23, ECCV22, PAMI, IJCV, WACV21-22, TMM, ACMMM21
 - 07/2021: [Grace-Hopper-Award](https://www.informatik.uni-bonn.de/de/gleichstellung/talents)  (Master Thesis Award), Uni Bonn 
 - ECCV 2020: Coorganizing the [WiCV workshop](https://sites.google.com/view/wicvworkshop-eccv2020/home), Virtual
-- Reviewer: CVPR21-23, ICCV21-23, ECCV22, PAMI, IJCV, WACV21-22, TMM, ACMMM21
-- Area Chair: WACV23 
+
+

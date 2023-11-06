@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Zuerich"
   date_start = "2023-05-15"
-  date_end = ""
-  description = "Project: Egocentric Action Recognition. Supervised by Fadime Sener."
+  date_end = "2023-10-27"
+  description = "Project: Egocentric Action Generalization. Supervised by Fadime Sener."
 
 [[experience]]
   title = "PhD student"

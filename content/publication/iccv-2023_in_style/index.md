@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2309.08928.pdf'
 url_code: 'https://github.com/ninatu/in_style'
 # url_dataset: '#'
 # url_poster: '#'

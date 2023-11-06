@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/ICCV2023/papers/Fan_SSB_Simple_but_Strong_Baseline_for_Boosting_Performance_of_Open-Set_ICCV_2023_paper.pdf'
 url_code: 'https://github.com/YUE-FAN/SSB'
 # url_dataset: '#'
 # url_poster: '#'
